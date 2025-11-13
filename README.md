@@ -10,6 +10,9 @@ A production-ready application for predicting customer churn using Machine Learn
 
 ---
 
+Deployment Link : https://churnclassification1.streamlit.app/
+API_Key = 3bfb7a2dac4d604e5174b3f416f79cfa
+
 ## Table of Contents
 
 - [Features](#-features)
