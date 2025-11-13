@@ -98,8 +98,8 @@ customer-churn-prediction/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AhmedSho3ib/customer-churn-prediction.git
-cd customer-churn-prediction
+git clone https://github.com/AhmedSho3ib/Churn_Classification.git
+cd Churn_Classification
 ```
 
 ### 2. Create Virtual Environment
